@@ -6,6 +6,7 @@ A project using the TDD (Test Driven Development) methodology, where create firs
 
 ## Tech Stack
 **Client:** [TailwindCSS](https://tailwindcss.com)
+
 **Server:** [Laravel](https://laravel.com/),[PHPUnit](https://phpunit.de/index.html), [Jetstream](https://jetstream.laravel.com/introduction.html)
 
 ## Installation
